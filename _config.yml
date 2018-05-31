@@ -1,7 +1,7 @@
 ﻿### your site title here
 
 title: Hagura - Light!
-baseurl: /first-zero.github.io # name of the repository
+# baseurl: / # name of the repository
 email: your@email.com
 
 
@@ -42,5 +42,4 @@ exclude:
 plugins: [jekyll-seo-tag, jekyll-paginate]
 
 port: 4001
-include:
-  - _static
+
