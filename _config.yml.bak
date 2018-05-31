@@ -43,4 +43,4 @@ plugins: [jekyll-seo-tag, jekyll-paginate]
 
 port: 4001
 include:
-  - _static
+  - static
