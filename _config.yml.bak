@@ -1,7 +1,7 @@
 ﻿### your site title here
-
-title: Hagura - Light!
-baseurl: / # name of the repository
+# bundle exec jekyll serve
+title: zerp's blog
+# baseurl: / # name of the repository
 email: your@email.com
 
 
